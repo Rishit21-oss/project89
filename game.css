@@ -1,6 +1,6 @@
 body
 {
-	background-image: url("top-view-math-science-copy-space-stationery-items_23-2148416109.jpg");
+	background-image: url("https://cdn.hipwallpaper.com/i/75/53/0cFvKO.jpg");
 }
 
 	.login_div1 , .login_div2
@@ -11,7 +11,7 @@ body
 		border-radius: 15px;
 		width: 30%;
 		height: 150px;
-		background-color: springgreen;
+		background-color: wheat;
 	}
 
 
@@ -19,7 +19,7 @@ body
 {
 	display: inline-block;
 	margin-left: 3px;
-	color: pink;
+	color: tomato;
 	font-weight: bold;
 }
 #word
@@ -32,7 +32,7 @@ body
 }
 #output
 {
-	background:black;
+	background: white;
 	border-radius: 10px;
 	border-top: 10px solid #AA4465;
 	padding: 10px;
@@ -40,23 +40,22 @@ body
 	text-align: left;
 }
 h1{
-	color: black;
+	color: orange;
 	font-family: 'Akaya Kanadaka', cursive;
-	font-weight: bolder;
 }
 h3{
 	font-family: 'Lora', serif;
-	color: rgb(196, 3, 147);
+	color: teal;
 }
 #username{
 	font-family: 'Yellowtail', cursive;
-	color: rgb(179, 109, 226);
+	color: turquoise;
 }
 button{
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 input:hover{
-	background-color: blue;
+	background-color: yellow;
 }
 .login_div2:hover{
 	border: 5px solid rgb(102, 6, 73);
@@ -72,10 +71,14 @@ input:hover{
 	font-weight: bold;
 }
 h4{
-	color:black;
+	color: bisque;
 	font-family: 'Akaya Kanadaka', cursive;
 	width: 100px;
 }
 h4:hover{
 	text-decoration: underline;
+}
+#player_1_name, #player_2_name{
+	display: inline-block;
+	margin-left: 3px;
 }

@@ -82,4 +82,4 @@ function check() {
 function update_score() {
     localStorage.setItem("player1_score",player1_score);
     localStorage.setItem("player2_score",player2_score);
-}    
+}
